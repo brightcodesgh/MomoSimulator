@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Bright\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Bright\\.nuget\\packages"
+    ]
+  }
+}

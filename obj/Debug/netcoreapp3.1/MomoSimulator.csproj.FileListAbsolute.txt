@@ -1,0 +1,14 @@
+C:\Users\Bright\source\repos\MomoSimulator\bin\Debug\netcoreapp3.1\MomoSimulator.exe
+C:\Users\Bright\source\repos\MomoSimulator\bin\Debug\netcoreapp3.1\MomoSimulator.deps.json
+C:\Users\Bright\source\repos\MomoSimulator\bin\Debug\netcoreapp3.1\MomoSimulator.runtimeconfig.json
+C:\Users\Bright\source\repos\MomoSimulator\bin\Debug\netcoreapp3.1\MomoSimulator.runtimeconfig.dev.json
+C:\Users\Bright\source\repos\MomoSimulator\bin\Debug\netcoreapp3.1\MomoSimulator.dll
+C:\Users\Bright\source\repos\MomoSimulator\bin\Debug\netcoreapp3.1\MomoSimulator.pdb
+C:\Users\Bright\source\repos\MomoSimulator\obj\Debug\netcoreapp3.1\MomoSimulator.csproj.AssemblyReference.cache
+C:\Users\Bright\source\repos\MomoSimulator\obj\Debug\netcoreapp3.1\MomoSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bright\source\repos\MomoSimulator\obj\Debug\netcoreapp3.1\MomoSimulator.AssemblyInfoInputs.cache
+C:\Users\Bright\source\repos\MomoSimulator\obj\Debug\netcoreapp3.1\MomoSimulator.AssemblyInfo.cs
+C:\Users\Bright\source\repos\MomoSimulator\obj\Debug\netcoreapp3.1\MomoSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Bright\source\repos\MomoSimulator\obj\Debug\netcoreapp3.1\MomoSimulator.dll
+C:\Users\Bright\source\repos\MomoSimulator\obj\Debug\netcoreapp3.1\MomoSimulator.pdb
+C:\Users\Bright\source\repos\MomoSimulator\obj\Debug\netcoreapp3.1\MomoSimulator.genruntimeconfig.cache
